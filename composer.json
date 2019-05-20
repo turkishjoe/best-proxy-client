@@ -1,0 +1,17 @@
+{
+    "name": "turkishjoe/best-proxy-client",
+    "description": "Api client for https://best-proxies.ru/ on php",
+    "type": "library",
+    "authors": [
+        {
+            "name": "turkishjoe",
+            "email": "turkishjoe283@gmail.com"
+        }
+    ],
+    "require": {
+        "php-curl-class/php-curl-class": "^8.5"
+    },
+    "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}
