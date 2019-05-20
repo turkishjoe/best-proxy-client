@@ -9,9 +9,6 @@
 
 namespace BestProxy;
 
-use App\Exception\BestProxyException;
-use Curl\Curl;
-
 class BestProxyClient
 {
     const ALLOWED_TYPES = ['https', 'http'];

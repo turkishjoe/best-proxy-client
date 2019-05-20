@@ -9,9 +9,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {
-        "php-curl-class/php-curl-class": "^8.5"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {"": "src/"}
     }

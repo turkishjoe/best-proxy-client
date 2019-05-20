@@ -7,7 +7,7 @@
  * Time: 23:07
  */
 
-namespace App\Exception;
+namespace BestProxy;
 
 
 class BestProxyException extends \RuntimeException

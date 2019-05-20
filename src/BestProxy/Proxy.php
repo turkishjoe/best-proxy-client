@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Service\Proxy;
+namespace BestProxy;
 
 
 class Proxy
